@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CashRegister.Shared",
+    "\\CashRegister.UICore",
+    "\\CashRegister.WebAPI"
+  ],
+  "SelectedNode": "\\CashRegister.UICore\\CashRegister.UICore.csproj",
+  "PreviewInSolutionExplorer": false
+}
